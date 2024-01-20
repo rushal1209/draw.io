@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T09:58:10.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0/8mqHiSuL-56" etag="YlxbHURgnn7q-H1nl81h" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-20T10:06:33.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0/8mqHiSuL-56" etag="jV5i6Uorx2RzCmqn9Ma1" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="0V4Y5ZXLhWTfrrC21tAs">
     <mxGraphModel dx="1826" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U9dtT9ersGWB6scOrgZ3" name="Page-2">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="464" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         <mxCell id="5L-NYrW7F97HJQ0hMNdp-2" value="Service Provider (SP)&lt;br&gt;Snowflake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5L-NYrW7F97HJQ0hMNdp-3" value="Identity Provider (IdP)&lt;br&gt;Okta/Azure ADFS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5L-NYrW7F97HJQ0hMNdp-3" value="Identity Provider (IdP)&lt;br&gt;Okta/ADFS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="280" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5L-NYrW7F97HJQ0hMNdp-4" value="USER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
