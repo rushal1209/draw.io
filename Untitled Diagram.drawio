@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T09:55:20.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0/8mqHiSuL-56" etag="E6z_kceQww1fXIF21wL5" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-20T09:58:10.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0/8mqHiSuL-56" etag="YlxbHURgnn7q-H1nl81h" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="0V4Y5ZXLhWTfrrC21tAs">
     <mxGraphModel dx="1826" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,24 +75,22 @@
           <mxGeometry x="120" y="240" width="600" height="200" as="geometry" />
         </mxCell>
         <mxCell id="5L-NYrW7F97HJQ0hMNdp-1" value="Federated Environment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="140" height="30" as="geometry" />
+          <mxGeometry x="570" y="410" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5L-NYrW7F97HJQ0hMNdp-2" value="Service Provider&lt;br&gt;Snowflake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="120" height="120" as="geometry" />
+        <mxCell id="5L-NYrW7F97HJQ0hMNdp-2" value="Service Provider (SP)&lt;br&gt;Snowflake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5L-NYrW7F97HJQ0hMNdp-3" value="Identity Provider&lt;br&gt;Okta/Azure ADFS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="120" height="120" as="geometry" />
+        <mxCell id="5L-NYrW7F97HJQ0hMNdp-3" value="Identity Provider (IdP)&lt;br&gt;Okta/Azure ADFS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5L-NYrW7F97HJQ0hMNdp-4" value="USER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="80" height="30" as="geometry" />
+          <mxGeometry x="555" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5L-NYrW7F97HJQ0hMNdp-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5L-NYrW7F97HJQ0hMNdp-4" target="5L-NYrW7F97HJQ0hMNdp-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="270" as="sourcePoint" />
             <mxPoint x="470" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="230" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5L-NYrW7F97HJQ0hMNdp-7" value="credentials" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5L-NYrW7F97HJQ0hMNdp-6">
